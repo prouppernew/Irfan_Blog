@@ -7,7 +7,7 @@ import { FaGithubSquare } from "react-icons/fa";
 
 function Footer() {
   return (
-    <div className=' md:grid grid-cols-2 h-[100%]  md:h-[350px] w-[100%] bg-[#2699fb] ' >
+    <div className=' md:grid grid-cols-2 h-[100%]  md:h-[350px] w-[100%] bg-[#2d72ae] ' >
         <div className=' md:ml-36 md:grid grid-cols-2  ' >
             <div className='ml-4' >
                 <h1 className=' font-bold text-3xl mt-16 ' >Irfan Blog</h1>
